@@ -1,5 +1,5 @@
 
-# Trabalho Infantil no Meio Rural – Investigação do Paradoxo da Riqueza
+# Trabalho Infantil – Investigação do Paradoxo da Riqueza
 
 **Autor:** Bruno Timm 
 
