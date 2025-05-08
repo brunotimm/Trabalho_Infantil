@@ -1,7 +1,8 @@
 
-# Projeto: Trabalho Infantil no Meio Rural – Investigação do Paradoxo da Riqueza
+# Trabalho Infantil no Meio Rural – Investigação do Paradoxo da Riqueza
 
 **Autor:** Bruno Timm 
+
 **Início do projeto:** Fevereiro de 2025
 
 ## Descrição
