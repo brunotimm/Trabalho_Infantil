@@ -8,7 +8,7 @@
 **Início do projeto:** Fevereiro de 2025
 
 ## Descrição
-Este projeto verificar a existência do paradoxo da riqueza no trabalho infantil rural no Brasil, proposto por Bhalotra & Heady (2003, e investigado por Kassouf & Justus (2010) construindo um pseudo-painel a partir de PNADs de diferentes anos.
+Este projeto verificar a existência do paradoxo da riqueza no trabalho infantil rural no Brasil, proposto por Bhalotra & Heady (2003), e investigado por Kassouf & Justus (2010) construindo um pseudo-painel a partir de PNADs de diferentes anos.
 
 ## Estrutura de Pastas
 - `dados_brutos/`: microdados originais das PNADs.
