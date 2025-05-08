@@ -2,7 +2,7 @@
 # Trabalho Infantil – Investigação do Paradoxo da Riqueza 🧑‍🌾
 
 **Autor:** Bruno Timm 
-
+**Orientadora:** Andrea Ferro
 **Início do projeto:** Fevereiro de 2025
 
 ## Descrição
