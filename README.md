@@ -1,5 +1,9 @@
 
-# Trabalho Infantil – Investigação do Paradoxo da Riqueza 🧑‍🌾
+# Trabalho Infantil – Investigação do Paradoxo da Riqueza man_farmer
+- Fazendeira 👩‍🌾 → :woman_farmer:
+Você pode copiar e colar esses emojis diretamente no seu README do GitHub ou usar os códigos Markdown para exibi-los. Se quiser explorar mais emojis agrícolas, pode conferir esta página. 🚜🌾
+Seu projeto tem algo a ver com fazendas ou agricultura? 🌱😃
+
 
 **Autor:** Bruno Timm 
 
